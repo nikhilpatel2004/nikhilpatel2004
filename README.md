@@ -70,19 +70,11 @@
 
 ---
 
-## 🎯 **Top Open Source Contributions**
-- 🔹 **[Project 1 FaceExpressionDetection](https://github.com/nikhilpatel2004/faceExpressionDetection.git)** 
-- 🔹 **[Project 2 Name](https://github.com/nikhilpatel2004/project2-repo)** – *Short project description*
-- 🔹 **[Project 3 Name](https://github.com/nikhilpatel2004/project3-repo)** – *Short project description*
 
----
 
-## 📌 **Fun Facts & Extras**
-### ✍️ **Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 📺 **Programming Memes**
-![Meme](https://random-memer.herokuapp.com/)
+
+
 
 ---
 
