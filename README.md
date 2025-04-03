@@ -8,9 +8,9 @@
 ## 🚀 **About Me**
 - 🎓 **B.Tech | Computer Science (Artificial Intelligence & Robotics)**  
 - 🏫 **Gyan Ganga Institute of Technology and Sciences**  
-- 💡 Passionate about **AI, Machine Learning, Robotics, and Frontend Development**  
-- 🚀 Currently improving my **DSA, Python, and Web Development Skills**  
-- 💬 Ask me about **Java, DSA, Algorithms, and Web Development**  
+- 💡 Passionate about **AI, Robotics, and Frontend Development**  
+- 🚀 Currently improving my **DSA,  
+- 💬 Ask me about **Java, DSA, Algorithms,
 - 📫 Reach me at **[nikhilpatel64581@gmail.com](mailto:nikhilpatel64581@gmail.com)**  
 
 ---
@@ -41,11 +41,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  
+ 
 
 #### 🔧 **Tools & Technologies**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
